@@ -6,7 +6,7 @@ public class Task4Builder {
 		String sText = "Hello! My name is Lesha. I am going to school";
         int k = 3;
         String subText = "STRING";
-        System.out.printf("Результат:%s%s", System.lineSeparator(),insertSub(sText, subText, k));
+        System.out.printf("ГђГҐГ§ГіГ«ГјГІГ ГІ:%s%s", System.lineSeparator(),insertSub(sText, subText, k));
         }
      
         public static String putSub(String sText, String subText, int k) {
